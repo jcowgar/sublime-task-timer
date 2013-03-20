@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Task Timer: Start Timer",
+        "command": "task_timer_start"
+    },
+    {
+    	"caption": "Task Timer: Status",
+    	"command": "task_timer_status"
+    }
+]
