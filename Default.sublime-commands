@@ -1,7 +1,15 @@
 [
     {
-        "caption": "Task Timer: Start Timer",
+        "caption": "Task Timer: Start",
         "command": "task_timer_start"
+    },
+    {
+        "caption": "Task Timer: Pause",
+        "command": "task_timer_pause"
+    },
+    {
+        "caption": "Task Timer: Stop",
+        "command": "task_timer_stop"
     },
     {
     	"caption": "Task Timer: Status",
